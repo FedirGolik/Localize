@@ -1,0 +1,368 @@
+
+
+hr {
+    margin: 0;
+    border: none;
+    min-height: 2px;  /*asdads */
+    background-color: #ccc;
+}
+ul {
+    padding: 0;
+}
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #fff;
+}
+ul {
+    list-style-type: none;
+}
+a {
+    text-decoration: none;
+    color: #000000;
+}
+.header {
+}
+.header-list {
+    display: flex;
+}
+.img-and-list {
+    display: flex;
+    justify-content: center;
+
+
+}
+.header-list-item {
+    margin-left: 50px;
+}
+img {
+    display: block;
+}
+.btn1 {
+    font-size: 16px;
+    border: 1px solid rgba(0.0, 0.0, 0.0, 0.5);
+    padding: 10px 15px;
+    background-color: transparent;
+}
+.header-wrapper {
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.btn2 {
+    font-size: 16px;
+    border: 1px solid #FF6336;
+    padding: 10px 15px;
+    background-color: #FF6336;
+    color: #fff;
+}
+.header-btns {
+
+}
+.wrapper {
+    max-width: 1290px;
+    margin: 0 auto;
+}
+.ann-title {
+    font-size: 65px;
+}
+.ann-text {
+    font-size: 25px;
+}
+.ann-wrapper {
+    display: flex;
+    margin-top: 100px;
+}
+.ann-btn1 {
+    font-size: 16px;
+    border: 1px solid #FF6336;
+    padding: 10px 40px;
+    background-color: #FF6336;
+    color: #fff;
+
+}
+.ann-btn1 {
+    font-size: 16px;
+    border: 1px solid #FF6336;
+    padding: 10px 30px;
+    background-color: #FF6336;
+    color: #fff;
+
+}
+.ann-btn2 {
+    font-size: 16px;
+    padding: 10px 25px;
+    color: black;
+    border: 1px solid rgba(0.0, 0.0, 0.0, 0.5);
+    background-color: transparent;
+    margin-left: 2px;
+}
+.ann-terms {
+    font-size: 15px;
+}
+.partn-img {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.partners {
+    background-color: #FF9C7D;
+}
+.part-title {
+    padding-top: 90px;
+    text-align: center;
+}
+.wrapper-c {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.content-img {
+    width: 632px;
+    height: 632px;
+}
+section {
+    margin-top: 50px;
+}
+.cont-title {
+    font-size: 50px;
+}
+.cont-text {
+    font-size: 20px;
+}
+.cont-link {
+    font-weight: bold;
+    font-size: 20px;
+}
+.underlined {
+    text-decoration: underline;
+}
+.met-title {
+    font-size: 50px;
+    text-align: center;
+}
+.desc-title {
+    font-size: 25px;
+    font-weight: bold;
+}
+.col {
+    display: flex;
+    justify-content: space-around;
+    padding-top: 30px;
+}
+.col-img {
+    display: flex;
+    justify-content: space-around;
+    padding-top: 30px;
+    align-items: center;
+}
+.methods {
+    background-color: #fff8e4;
+}
+.desc-body, .desc-title {
+    text-align: center;
+}
+.method1>img, .method2>img,.method3>img, .method4>img, .method5>img, .method6>img,
+.boost1>img, .boost2>img, .boost3>img {
+    margin: 0 auto;
+}
+.boost-link {
+    text-decoration: underline;
+}
+.boost-link-w {
+    text-align: center;
+}
+.feedback {
+    background-color: #C9E8F2;
+}
+.feed-body {
+    font-size: 30px;
+    padding-top: 40px;
+}
+
+.feed-desc {
+    font-size: 15px;
+}
+.feed-wrap {
+    display: flex;
+    justify-content: space-between;
+}
+.feed-title {
+    font-size: 40px;
+    margin: 0;
+}
+.feedback-img>img {
+    padding-top: 40px;
+    padding-bottom: 60px;
+}
+.soft-title {
+    font-weight: bold;
+    font-size: 35px;
+}
+.soft {
+    background-color: #DABC98;
+    margin-top: 0;
+}
+.vl {
+    border-left: 1px solid #000000;
+}
+.soft-wrap {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.softlogos {
+    display: flex;
+    align-items: center;
+}
+.stars {
+    padding-bottom: 10px;
+    padding-top: 15px;
+}
+.soft-info {
+    display: flex;
+}
+.soft-img {
+    margin-right: 60px;
+}
+.softlogo1 {
+    margin-right: 70px;
+}
+.tools {
+    margin-top: 100px;
+}
+.tools-logo {
+    font-size: 65px;
+    text-align: center;
+    margin: 0;
+}
+.tools-subtitle {
+    font-size: 25px;
+    text-align: center;
+    padding-bottom: 25px;
+}
+.tools-img {
+    margin: 0 auto;
+}
+.tool-btn {
+    font-size: 16px;
+    border: 1px solid #FF6336;
+    padding: 10px 15px;
+    background-color: #FF6336;
+    color: #fff;
+    display: block;
+    margin: 0 auto;
+    margin-top: 30px;
+}
+.localize {
+    margin-top: 100px;
+    background-color: #FF9C7D;
+    padding-bottom: 140px;
+}
+.loc-logo {
+    font-size: 65px;
+    text-align: center;
+    margin: 0;
+    padding-top: 100px;
+}
+.loc-desc {
+    font-size: 20px;
+    text-align: center;
+    margin: 0;
+    padding-top: 20px;
+}
+.loc-btn {
+    font-size: 17px;
+    border: 1px solid #000000;
+    padding: 15px 25px;
+    background-color: #000000;
+    color: #fff;
+    display: block;
+    margin: 0 auto;
+    margin-top: 30px;
+}
+.cs-title {
+    font-size: 40px;
+    margin-top: 0;
+}
+.sc-desc {
+    font-size: 20px;
+    margin-bottom: 15px;
+}
+.foot_logo {
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+.footer-title {
+    font-size: 20px;
+}
+.footer-links {
+    padding-top: 15px;
+}
+.footer {
+    background-color: #EEEEEE;
+
+    margin-top: 0;
+}
+.footer-wrap {
+    padding-top: 100px;
+    display: flex;
+    justify-content: space-between;
+}
+.case-studies {
+    padding-bottom: 100px;
+}
+.footer>.wrapper>hr {
+    background-color: #000000;
+    min-height: 1px;
+    margin-bottom: 50px;
+}
+.logo-desc {
+    display: flex;
+}
+.copyright {
+    font-size: 12px;
+}
+.footer-copyright {
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 40px;
+}
+.logo-desc>p {
+    margin-left: 15px;
+}
+.header-list-item>a:hover {
+    text-decoration: underline;
+    color: #0d2235;
+}
+.cont-link:hover {
+    text-decoration: underline;
+    color: #ff6336;
+}
+.btn1:hover, .ann-btn2:hover, {
+    cursor: pointer;
+    background-color: #000000;
+    color: #fff;
+}
+.btn2:hover, .ann-btn1:hover, .tool-btn:hover {
+    cursor: pointer;
+    background-color: #fff;
+    color: #f73a03;
+}
+.loc-btn:hover {
+    cursor: pointer;
+    border: 1px solid rgba(0.0, 0.0, 0.0, 0.5);
+    background: transparent;
+    color: #000;
+}
+.footer-links:hover {
+    text-decoration: underline;
+}
+.boost-link:hover {
+    color: #f73a03;
+}
