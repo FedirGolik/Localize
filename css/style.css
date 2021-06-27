@@ -344,7 +344,7 @@ section {
     text-decoration: underline;
     color: #ff6336;
 }
-.btn1:hover, .ann-btn2:hover, {
+.btn1:hover, .ann-btn2:hover {
     cursor: pointer;
     background-color: #000000;
     color: #fff;
